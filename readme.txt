@@ -1,4 +1,4 @@
-Welcome to my first repo
+Welcome to my 2nd repo
 Learning this Git hype and get a job
 hope I'm going somewhere with this
 I will try to do my best
