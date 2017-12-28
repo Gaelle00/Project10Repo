@@ -1,28 +1,24 @@
-# This is a large heading
+# Alexandra Baghera
 
-## This is a smaller heading
+## The basics about her
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+She was born in Rabat, Morocco, And she grew up in Paris.
+She is in college studying computer engineering.
 
-- This is
-- an unordered
-- list
+She hopes to become a **very good** software engineer.
+Her 3 favorite programming languages are:
 
-1. This is
-2. an ordered
-3. list
+- Java
+- Python
+- C
 
-Here is `some code` in the middle of a sentence.
 
-```
-This is
-a block
-of code
-```
+she also likes to have *fun*. Her favorite activities are:
 
-Here is how you make [a link](https://www.wikipedia.org/).
+1. Surfing
+2. Crafting
+3. hiking
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+she likes good food to specifically the **mediteraneean cuisine**
+
+you can checkout the good stuffs she does at [her twitter page](https://www.twitter.com/alexbaghera).
