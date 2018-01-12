@@ -21,4 +21,4 @@ she also likes to have *fun*. Her favorite activities are:
 
 she likes good food to specifically the **mediteraneean cuisine**
 
-you can checkout the good stuffs she does at [her twitter page](https://www.twitter.com/alexbaghera).
+you can checkout the good stuffs she does at [her twitter page](https://www.twitter.com/alex___baghera).
