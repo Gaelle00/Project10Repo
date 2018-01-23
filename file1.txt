@@ -1,2 +1,4 @@
 once upon a time grinch stole christmas
 one more line
+     This line contains heading spaces
+	last line.
